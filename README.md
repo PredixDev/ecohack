@@ -1,5 +1,5 @@
 #Comments for Deutsche Bahn
-Hi!  This was a customized branch for our SDLP 2016 Berlin Open Source seminar training.  This version of the ecohack app is for Deutsche Bahn to show that it can be customizable for any business or use case.
+Hi!  This is a customized branch for our SDLP 2016 Berlin Open Source seminar training.  This version of the ecohack app is for Deutsche Bahn to show that it can be customizable for any business or use case.
 
 #Predix Experience 2.0 Seed
 Dashboard Seed is an application that uses Px Web Components and <a href="https://github.com/PredixDev/px-library-design/" target="_blank">Px UI Elements</a> inside an Angular application.
