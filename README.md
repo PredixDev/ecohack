@@ -1,16 +1,5 @@
-#Comments for Ecomagination Hackathon
-Welcome!  This is the starter seed for the Ecomagination Hackathon.  Below are the directions on how to connect the seed to your Predix Services.  For this Hackathon, the following files were edited:
-
-	-manifest.yml
-	-dist/nginx.conf
-	-public/index.html
-	-public/views/dashboards.html
-	-public/scripts/app.js
-	-public/scripts/routes.js
-	-public/scripts/modules/sample-module/dashboard-controller.js
-	-any sample data (.json files) in /public/sample-data
-
-In the manifest.yml and the dist/nginx.conf, any lines that connect to the services are commented out.  You will fix these lines in the steps below with the proper values.  The majority of the code for the UI that you see is in the dashboards.html file.  The original login page is removed, but if you would like to add it back, see the commented code in app.js, dashboard-controller.js, nginx.conf, and index.html.   Make sure to update /tasks/options/connect.js with the correct UAA Configuration and Secure Routes and that any sample data is in the correct timeseries format (see the .json files).  Also, make sure that your service instance names have underscores instead of dashes because the view service currently only reads underscores.  As you go through the steps below, it might help to keep a document with your service urls, instance ids, clientids, and client secrets so that you don't forget anything.  Happy Hacking! :)
+#Comments for Deutsche Bahn
+Hi!  This was a customized branch for our SDLP 2016 Berlin Open Source seminar training.  This version of the ecohack app is for Deutsche Bahn to show that it can be customizable for any business or use case.
 
 #Predix Experience 2.0 Seed
 Dashboard Seed is an application that uses Px Web Components and <a href="https://github.com/PredixDev/px-library-design/" target="_blank">Px UI Elements</a> inside an Angular application.
